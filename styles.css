@@ -28,3 +28,17 @@ img {
     display: block;
 }
 
+.links-list {
+    display: flex;
+    list-style: none;
+    border: 1px solid orange;  
+    padding-left: 350px; 
+}
+
+.recipe {
+    padding: 1em 2em;
+    text-decoration: none;
+    background-color: lightcoral;
+    margin: 5px;
+}
+
